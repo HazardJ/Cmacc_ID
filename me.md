@@ -1,36 +1,34 @@
 NOTE=Consider very carefully what you want to put on the web.  Warning - this info is provided solely for good purposes. You are prohibited from making copies or summaries or otherwise using it for any bad purpose.  You agree that the author of the information is the sole judge of "good" and "bad."  Any dispute will be finally resolved by arbitration under the rules of the International Chamber of Commerce, which shall have exclusive jurisdiction.  The seat of the arbitration will be in Paris. There will be one arbitrator.  [Improvements to this invited.]
 
-Name.First=
+Name.First=James
 
-Name.Last=
+Name.Last=Hazard
 
-Name.Middle=
+Name.Middle=Gardiner
 
-Name.M=
+Name.M=G
 
-//=first line of an address - all this naming needs to be improved.  Happy for pull requests.
+Addr.1=73 Apple Street
 
-Addr.1=
+Addr.City=Woolham
 
-Addr.City=
+Addr.ST=MA
 
-Addr.ST=
+Addr.State=Massachusetts
 
-Addr.State=
+Addr.Zip=02144
 
-Addr.Zip=
+Email=james.g.hazard@gmail.com
 
-Email=
+Addr.NN=USA
 
-Addr.NN=
+Addr.Nation=United States of America
 
-Addr.Nation=
+Addr.Type=temporary
 
-Addr.Type=
+Nationality=United States of America
 
-Nationality=
-
-Name.Maiden/Other=
+Name.Maiden/Other={Null}
 
 =[U/class/ID_He]
 
