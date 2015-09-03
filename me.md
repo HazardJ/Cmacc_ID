@@ -28,6 +28,8 @@ Addr.Type=temporary
 
 Nationality=United States of America
 
+Phone=555.555.5555
+
 Name.Maiden/Other={Null}
 
 =[U/class/ID_He]
