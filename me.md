@@ -16,7 +16,7 @@ Addr.ST=MA
 
 Addr.State=Massachusetts
 
-Addr.Zip=02144
+Addr.Zip=02!4E
 
 Email=james.g.hazard@gmail.com
 
@@ -27,6 +27,8 @@ Addr.Nation=United States of America
 Addr.Type=temporary
 
 Nationality=United States of America
+
+Twitter.Handle=CommonAccord
 
 Phone=555.555.5555
 
