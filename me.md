@@ -8,23 +8,23 @@ Name.Middle=Gardiner
 
 Name.M=G
 
-Addr.1=73 Apple Street
+Adr.1=73 Apple Street
 
-Addr.City=Woolham
+Adr.City=Woolham
 
-Addr.ST=MA
+Adr.ST=MA
 
-Addr.State=Massachusetts
+Adr.State=Massachusetts
 
-Addr.Zip=02!4E
+Adr.Zip=02!4E
 
 Email=james.g.hazard@gmail.com
 
-Addr.NN=USA
+Adr.UK=USA
 
-Addr.Nation=United States of America
+Adr.Nation=United States of America
 
-Addr.Type=temporary
+Adr.Type=temporary
 
 Nationality=United States of America
 
